@@ -22,10 +22,10 @@ This is a Bash script to **securely configure Git credentials** on Linux, with s
 1. Clone or download this repository.
 2. Make the script executable:
    ```bash
-   chmod +x git-setup.sh
+   chmod +x configure-ssh-git.sh
 3. Run the script:
    ```bash
-   ./configurar-ssh-github.sh
+   ./configure-ssh-git.sh
 4. The promt will guide you to:
   - Enter your Git name and email
   - Choose HTTPS or SSH
